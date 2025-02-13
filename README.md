@@ -1,0 +1,1 @@
+This repository contains a demonstration of a common error in TypeScript: type mismatch. The `combine` function is designed to work with number arrays but can fail if provided with arrays containing strings or other incompatible types. The solution implements input validation to prevent this error.
